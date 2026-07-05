@@ -12,6 +12,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0076-minimum-window-substring) |
 ## Database
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Tushar's Leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -61,4 +63,8 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
