@@ -75,9 +75,30 @@ Tushar's Leetcode
 | ------- |
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
