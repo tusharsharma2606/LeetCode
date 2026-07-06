@@ -8,6 +8,7 @@ Tushar's Leetcode
 | [0001-two-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +72,8 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0076-minimum-window-substring) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
