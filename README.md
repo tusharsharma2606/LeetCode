@@ -7,6 +7,7 @@ Tushar's Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -26,6 +27,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
