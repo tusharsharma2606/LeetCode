@@ -88,14 +88,17 @@ Tushar's Leetcode
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0100-same-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0100-same-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0100-same-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
 |  |
@@ -104,5 +107,6 @@ Tushar's Leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0100-same-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
