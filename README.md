@@ -15,6 +15,7 @@ Tushar's Leetcode
 | [0136-single-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ Tushar's Leetcode
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Tushar's Leetcode
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -124,6 +127,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -131,5 +135,10 @@ Tushar's Leetcode
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
