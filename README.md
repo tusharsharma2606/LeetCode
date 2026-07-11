@@ -11,6 +11,7 @@ Tushar's Leetcode
 | [0027-remove-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0136-single-number) |
@@ -141,6 +142,7 @@ Tushar's Leetcode
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
