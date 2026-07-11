@@ -19,6 +19,7 @@ Tushar's Leetcode
 | [0239-sliding-window-maximum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -149,4 +151,13 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
