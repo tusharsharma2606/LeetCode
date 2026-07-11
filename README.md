@@ -90,6 +90,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sorting
