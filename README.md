@@ -148,6 +148,7 @@ Tushar's Leetcode
 | ------- |
 | [0136-single-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
