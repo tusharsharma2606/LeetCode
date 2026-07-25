@@ -38,6 +38,7 @@ Tushar's Leetcode
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0706-design-hashmap) |
+| [1396-design-underground-system](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1396-design-underground-system) |
 ## Database
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Tushar's Leetcode
 | [0168-excel-sheet-column-title](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0796-rotate-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0796-rotate-string) |
+| [1396-design-underground-system](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1396-design-underground-system) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Tushar's Leetcode
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0705-design-hashset](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0706-design-hashmap) |
+| [1396-design-underground-system](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1603-design-parking-system) |
 ## Binary Tree
 |  |
