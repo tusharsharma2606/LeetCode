@@ -147,6 +147,7 @@ Tushar's Leetcode
 | ------- |
 | [0146-lru-cache](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1603-design-parking-system](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1603-design-parking-system) |
 ## Binary Tree
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
+| [1603-design-parking-system](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1603-design-parking-system) |
 ## Math
 |  |
 | ------- |
@@ -212,4 +214,8 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
