@@ -22,6 +22,7 @@ Tushar's Leetcode
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0706-design-hashmap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -130,6 +131,7 @@ Tushar's Leetcode
 | [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Tushar's Leetcode
 | [0066-plus-one](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
