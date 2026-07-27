@@ -22,6 +22,7 @@ Tushar's Leetcode
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0622-design-circular-queue](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0706-design-hashmap) |
@@ -81,6 +82,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0622-design-circular-queue) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Tushar's Leetcode
 | [0023-merge-k-sorted-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0622-design-circular-queue](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -162,6 +165,7 @@ Tushar's Leetcode
 | ------- |
 | [0146-lru-cache](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0622-design-circular-queue](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0706-design-hashmap) |
 | [1396-design-underground-system](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1396-design-underground-system) |
