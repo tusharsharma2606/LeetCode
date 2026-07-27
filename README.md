@@ -25,6 +25,7 @@ Tushar's Leetcode
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0706-design-hashmap) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1656-design-an-ordered-stream](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1656-design-an-ordered-stream) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -90,6 +91,7 @@ Tushar's Leetcode
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Tushar's Leetcode
 | [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Tree
 |  |
 | ------- |
