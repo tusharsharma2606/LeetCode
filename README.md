@@ -102,6 +102,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0622-design-circular-queue) |
