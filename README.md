@@ -130,6 +130,7 @@ Tushar's Leetcode
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0796-rotate-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0796-rotate-string) |
 | [1396-design-underground-system](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1396-design-underground-system) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Tushar's Leetcode
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
 | ------- |
@@ -251,4 +253,8 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [1656-design-an-ordered-stream](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1656-design-an-ordered-stream) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
