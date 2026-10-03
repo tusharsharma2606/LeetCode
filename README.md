@@ -132,6 +132,7 @@ Tushar's Leetcode
 | [0013-roman-to-integer](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -197,6 +198,7 @@ Tushar's Leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -212,6 +214,7 @@ Tushar's Leetcode
 | [0009-palindrome-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -260,6 +263,7 @@ Tushar's Leetcode
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0067-add-binary) |
 | [1603-design-parking-system](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1603-design-parking-system) |
 ## Hash Function
 |  |
