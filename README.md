@@ -62,6 +62,7 @@ Tushar's Leetcode
 | [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -80,6 +81,7 @@ Tushar's Leetcode
 | [0042-trapping-rain-water](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Tushar's Leetcode
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0706-design-hashmap) |
@@ -278,4 +281,8 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
