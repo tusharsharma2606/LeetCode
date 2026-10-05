@@ -28,6 +28,7 @@ Tushar's Leetcode
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0706-design-hashmap) |
+| [0877-stone-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1656-design-an-ordered-stream](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1656-design-an-ordered-stream) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -75,6 +76,7 @@ Tushar's Leetcode
 | [0055-jump-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0087-scramble-string) |
 | [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1025-divisor-game) |
 ## Stack
 |  |
@@ -222,6 +224,7 @@ Tushar's Leetcode
 | [0168-excel-sheet-column-title](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -251,6 +254,7 @@ Tushar's Leetcode
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
@@ -287,4 +291,12 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
