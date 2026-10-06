@@ -69,6 +69,7 @@ Tushar's Leetcode
 | [0349-intersection-of-two-arrays](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Tushar's Leetcode
 | [0877-stone-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -251,6 +253,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
