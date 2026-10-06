@@ -16,6 +16,7 @@ Tushar's Leetcode
 | [0066-plus-one](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -76,6 +77,7 @@ Tushar's Leetcode
 | [0042-trapping-rain-water](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0087-scramble-string) |
+| [0120-triangle](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1025-divisor-game) |
