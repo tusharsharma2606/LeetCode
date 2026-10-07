@@ -90,6 +90,7 @@ Tushar's Leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Tushar's Leetcode
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1396-design-underground-system](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1396-design-underground-system) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
