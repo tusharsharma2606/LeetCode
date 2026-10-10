@@ -25,6 +25,7 @@ Tushar's Leetcode
 | [0349-intersection-of-two-arrays](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0414-third-maximum-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -165,6 +166,7 @@ Tushar's Leetcode
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
