@@ -35,6 +35,7 @@ Tushar's Leetcode
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1656-design-an-ordered-stream](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1656-design-an-ordered-stream) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -219,6 +220,7 @@ Tushar's Leetcode
 | [0191-number-of-1-bits](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Counting
 |  |
 | ------- |
