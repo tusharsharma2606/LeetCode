@@ -48,6 +48,7 @@ Tushar's Leetcode
 | [0146-lru-cache](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -71,6 +72,7 @@ Tushar's Leetcode
 | [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -238,6 +240,7 @@ Tushar's Leetcode
 | [0066-plus-one](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0877-stone-game) |
@@ -332,4 +335,8 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
