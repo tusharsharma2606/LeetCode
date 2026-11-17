@@ -62,6 +62,7 @@ Tushar's Leetcode
 | ------- |
 | [0175-combine-two-tables](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0182-duplicate-emails) |
 ## Two Pointers
 |  |
 | ------- |
